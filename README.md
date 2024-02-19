@@ -1,2 +1,2 @@
 # PlatformCommandMicroservices
-This is a commit-by-commit of .NET Microservices YouTube course
+This is a commit-per-chapter repository of .NET Microservices YouTube course.
